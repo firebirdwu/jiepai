@@ -1,0 +1,3 @@
+GROUP_START = 1
+GROUP_END = 20
+KEYWORD = '美女街拍'
